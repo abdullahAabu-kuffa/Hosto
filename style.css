@@ -227,6 +227,10 @@ nav span {
     width: 200px;
 }
 
+.logo .container .d-flex div:hover {
+    color: var(--mainColor);
+}
+
 /* End Logos */
 /* start contactus */
 .contactus {
@@ -254,3 +258,11 @@ nav span {
 }
 
 /* End contactus */
+/* Start Footer */
+.footer i {
+    color: var(--mainColor);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+/* End Footer */
