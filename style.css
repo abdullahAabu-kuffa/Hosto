@@ -228,7 +228,7 @@ nav span {
 }
 
 .logo .container .d-flex div:hover {
-    color: var(--mainColor);
+    color: var(--mainColor) !important;
 }
 
 /* End Logos */
@@ -260,7 +260,7 @@ nav span {
 /* End contactus */
 /* Start Footer */
 .footer i {
-    color: var(--mainColor);
+    color: var(--mainColor) !important;
     margin-left: 10px;
     margin-right: 10px;
 }
